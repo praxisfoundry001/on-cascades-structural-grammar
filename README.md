@@ -38,8 +38,8 @@ The artifact uses the Structural Flow hinge grammar to clarify Cascade as a dist
 
 Related artifacts include:
 
-- *Meeting ¯\(ツ)/¯ — Chance, Failure, and the Normal Behavior of the Universe*
-- *¯\(ツ)/¯ — A Derivation from Non-Guarantee Structural Flow and the Exhaustion of Failure Space*
+- *Meeting ¯\\(ツ)/¯ — Chance, Failure, and the Normal Behavior of the Universe*
+- *¯\\(ツ)/¯ — A Derivation from Non-Guarantee Structural Flow and the Exhaustion of Failure Space*
 - *The Nervous System Is Input: A Structural Account of Physiology, Cascades, and Professional Authority*
 - *The Calm Classroom Professional Standard: A Voluntary Canon for Handling Authority Under Pressure*
 - *The Calm Classroom: Staffing Brief No. 2 — Speed Is a Warning Sign*
